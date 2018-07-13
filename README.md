@@ -1,4 +1,8 @@
 # Satellite-communication-system-project
+
+
+![DVB-S2 modulator transmitter](https://github.com/OrlandoYan/Satellite-communication-system-project/blob/master/hhe.png)
+
 In this project, I have learned how to plan, implement, analyse and simulate satellite communication systems 
 in compliance with the latest digital video broadcasting – satellite DVB-S2 standard.  
 The project consists of five parts. Part I involves link budget calculations, where signal-to-noise ratios (SNRs) 
