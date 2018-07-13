@@ -8,3 +8,7 @@ objective of Part IV is to develop an adaptive coding scheme at the satellite tr
 parameters to the reception conditions of terminals, e.g., switching to a lower code rate during rain. Part V deals with 
 developing and implementing diversity and combining techniques by using multiple antennas at the receiver at the customer 
 premises to improve the satellite signal transmission. 
+
+*Block diagram of DVB-S2 modulator transmitter:
+
+![DVB-S2 modulator transmitter](https://github.com/OrlandoYan/Satellite-communication-system-project/blob/master/1e.png)
