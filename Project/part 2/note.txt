@@ -1,0 +1,4 @@
+running in the Matlab 2016a edition
+first.m£¨DVB-S baseband without outer RS code£© about 15-20 minutes
+second.m (DVB-S with outer codes) about 6 hours
+third.m (simulation in the Rayleigh fading channel) about 10 minutes
