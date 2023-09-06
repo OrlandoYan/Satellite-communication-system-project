@@ -3,24 +3,24 @@
 
 ![DVB-S2 modulator transmitter](https://github.com/OrlandoYan/Satellite-communication-system-project/blob/master/hhe.png)
 
-In the course of this project, I honed my ability to design, implement, analyze, and simulate satellite communication systems in alignment with the contemporary digital video broadcasting – satellite DVB-S2 standard.
+In the course of this project, expertise has been cultivated in planning, implementing, analysing, and simulating satellite communication systems, adhering meticulously to the latest developments in the digital video broadcasting – satellite DVB-S2 standard.
 
-The project is segmented into five comprehensive parts. 
+The project is delineated into five comprehensive segments. 
 
-In Part I, I engage in meticulous link budget calculations, where I determine the signal-to-noise ratios (SNRs) to ensure they meet specific performance criteria. 
+Part I encompasses meticulous link budget calculations, where signal-to-noise ratios (SNRs) are meticulously determined to fulfill specific performance requirements, laying a solid foundation for the subsequent stages of the project. 
 
-Part II is dedicated to baseband simulations following the DVB-S2 standard, offering a detailed exploration of its capabilities and functionalities.
+In Part II, emphasis is placed on conducting baseband simulations in adherence to the DVB-S2 standard, a pivotal step that unveils a detailed exploration of the standard's capabilities and functionalities.
 
-In Part III, the objective is to simulate the nuanced DVB-S2X non-constant envelope modulation schemes, which unfortunately are not supported by MATLAB, thereby presenting an opportunity for in-depth analysis and adaptation.
+The ambition of Part III is to simulate the sophisticated DVB-S2X non-constant envelope modulation schemes, a set of methods not yet supported by MATLAB, thus presenting a noteworthy opportunity for an in-depth analysis and development of alternative solutions.
 
-Part IV focuses on the creation of an adaptive coding scheme within the satellite transponder. This scheme is dynamic, altering transmission parameters in real-time according to the reception conditions of various terminals; for instance, it facilitates a switch to a lower code rate during adverse weather conditions like rain.
+Part IV is characterized by the development of an adaptive coding scheme within the satellite transponder. This innovative approach dynamically alters transmission parameters in accordance to the varying reception conditions encountered at different terminals, showcasing the capacity to modulate to a lower code rate during inclement weather conditions such as rain.
 
-Lastly, Part V is concerned with the development and execution of innovative diversity and combining techniques, utilizing multiple antennas at the receiver's end located at the customer premises to enhance the quality and reliability of satellite signal transmission.
+Conclusively, Part V encompasses the development and implementation of avant-garde diversity and combining techniques, wherein multiple antennas situated at the receiver's locale on the customer premises are utilized to augment the efficacy and reliability of the satellite signal transmission.
 
-*Block diagram of DVB-S2 modulator transmitter:*
+*Block Diagram of DVB-S2 Modulator Transmitter:*
 
-(Note: The block diagram should follow here.)
+(Note: The block diagram would be inserted here.)
 
-This structured approach not only elevated my technical acumen but also enriched my understanding of satellite communication systems, gearing me towards becoming an adept professional in this domain.
+Through a structured and analytical approach, this project not only advances technical acumen but also contributes significantly to the growing body of knowledge surrounding satellite communication systems, thereby paving the way for further innovations and developments in this sector.
 
 ![DVB-S2 modulator transmitter](https://github.com/OrlandoYan/Satellite-communication-system-project/blob/master/1e.png)
